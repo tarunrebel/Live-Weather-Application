@@ -1,0 +1,13 @@
+body{
+    background-color: aqua;
+}
+.city{
+    /* background-color: red; */
+    width: 600px;
+    color: black;
+    text-transform: uppercase;
+}
+
+.form{
+    color:black;
+}
