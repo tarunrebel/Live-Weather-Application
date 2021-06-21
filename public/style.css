@@ -1,13 +1,29 @@
 body{
-    background-color: aqua;
+    /* background-color: aqua; */
+    background-image: url("https://wallpapercave.com/wp/Z4CD0Ic.jpg");
+
 }
 .city{
-    /* background-color: red; */
-    width: 600px;
-    color: black;
+    padding-top: 100px;
+
     text-transform: uppercase;
+    text-align:center;
+
 }
 
 .form{
-    color:black;
+    display: block;
+    color:rgb(228, 19, 19);
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
 }
+
+button{
+    margin: 20px;
+    font-size: 15px;
+}
+button:hover{
+    background-color:blueviolet;
+}
+
